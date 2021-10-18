@@ -1,4 +1,6 @@
 # Minesweeper
+![](https://user-images.githubusercontent.com/11965778/137804439-622d6866-689d-46c3-9d12-2dee7c130fa6.gif)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
